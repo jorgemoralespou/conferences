@@ -1,0 +1,23 @@
+= Dev Days Riga 2018 - Latvia
+
+- link:Conference site[https://rigadevdays.lv/]
+- link:Speaker link[https://rigadevdays.lv/speakers/55/]
+
+== OpwnShift workshop
+Kubernetes is the buzzword of today, however it’s an operations tool. As an developer it does not provide me with so many interesting features. We shall take took at OpenShift, distribution of Kubernetes, that does provide extended tooling developers. Once the application is running happily in the cluster, we will take a look at the APIs of both Kubernetes and OpenShift and will integrate our application with the platforms to give it visibility into the deployment environment.
+
+After this session you will be able to use Kuberenets and OpenShift as a deployment platform and as well as development platforms. On top of that you will be able to understand how the APIs of the platforms work and will be able to integrate your Java application more closely with the platform.
+
+=== Slides
+link:Openshift_Workshop-DevDaysRiga18.pdf[Slides in pdf]
+
+== Build and deploy applications in a Dockerless Kubernetes world
+Kubernetes has rapidly grown to support many container runtime formats. In this talk I'm presenting all the alternatives you have to run your applications in kubernetes, and will present CRI-O which is steadily becoming a replacement to run your Docker containers on production. And since you will no longer have Docker, how will you build now your Docker containers? Buildah is a project that facilitates building Docker containers in a Dockerless world.
+
+=== Slides
+link:Build_and_run_applications_in_a_Dockerless_Kubernetes_world-RigaDevDays18.pdf[Slides in pdf]
+
+=== Video
+video:W8TEjqYSkX0[youtube]
+
+
