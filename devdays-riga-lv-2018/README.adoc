@@ -1,7 +1,7 @@
 = Dev Days Riga 2018 - Latvia
 
-- link:Conference site[https://rigadevdays.lv/]
-- link:Speaker link[https://rigadevdays.lv/speakers/55/]
+link:Conference site[https://rigadevdays.lv/]
+link:Speaker link[https://rigadevdays.lv/speakers/55/]
 
 == OpwnShift workshop
 Kubernetes is the buzzword of today, however it’s an operations tool. As an developer it does not provide me with so many interesting features. We shall take took at OpenShift, distribution of Kubernetes, that does provide extended tooling developers. Once the application is running happily in the cluster, we will take a look at the APIs of both Kubernetes and OpenShift and will integrate our application with the platforms to give it visibility into the deployment environment.
@@ -18,6 +18,6 @@ Kubernetes has rapidly grown to support many container runtime formats. In this 
 link:Build_and_run_applications_in_a_Dockerless_Kubernetes_world-RigaDevDays18.pdf[Slides in pdf]
 
 === Video
-video:W8TEjqYSkX0[youtube]
+https://www.youtube.com/watch?v=W8TEjqYSkX0[Video on youtube]
 
 
