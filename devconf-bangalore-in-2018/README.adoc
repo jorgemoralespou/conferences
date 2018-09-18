@@ -1,0 +1,34 @@
+= DevConf India 2018 - Bangalore
+
+* link:https://devconf.info/in/2018[Conference site]
+* link:https://devconfin2018.sched.com/speaker/jmorales11[Speaker link]
+
+== DevOps with OpenShift
+Although continuous delivery (CD) and DevOps are growing in popularity, there is not much practical information available about how to get started and build automated pipelines across containers and traditional infrastructure.
+In this lab, you will learn how to automate software delivery from source code commit to deployment in production using Jenkins and OpenShift
+
+=== Slides
+link:Devops_with_OpenShift-DevConf-India-18.pdf[Slides in pdf]
+
+== Improving the developer experience on OpenShift
+Are you a developer? Are you one of those guys that likes easy? In this talk I’m going to present how we abstract away kubernetes and OpenShift to regular developers so that “easy becomes really easy”, and so that there’s no fear to any developer on using the potential of an amazing platform. 
+
+https://devconfin2018.sched.com/event/F6fG/improving-the-developer-experience-on-openshift
+
+=== Slides
+link:https://www.slideshare.net/JorgeMorales124/improving-the-developer-experience-on-openshift-devconfindia18[Slides in slideshare]
+link:Improving_the_developer_experience_on_OpenShift-DevConf-India-18.pdf[Slides in pdf]
+
+=== Video
+link:https://youtu.be/YvhTDwljhuA[Video on Youtube]
+
+== Build and deploy applications in a Dockerless Kubernetes world
+Kubernetes has rapidly grown to support many container runtime formats. In this talk, I'm presenting all the alternatives you have to run your applications in kubernetes, and will present CRI-O which is steadily becoming a replacement to run your Docker containers on production. And since you will no longer have a docker daemon on your hosts, how will you build now your containers? I'll talk about all the options you have in this new world of Dockerless containers. 
+
+=== Slides
+link:https://www.slideshare.net/JorgeMorales124/build-and-run-applications-in-a-dockerless-kubernetes-world-devconf-india-18[Slides in slideshare]
+link:Build_and_run_applications_in_a_Dockerless_Kubernetes_world-DevConf-India-18.pdf[Slides in pdf]
+=== Video
+https://www.youtube.com/watch?v=W8TEjqYSkX0[Video on youtube]
+
+
