@@ -28,7 +28,8 @@ Kubernetes has rapidly grown to support many container runtime formats. In this 
 === Slides
 link:https://www.slideshare.net/JorgeMorales124/build-and-run-applications-in-a-dockerless-kubernetes-world-devconf-india-18[Slides in slideshare]
 link:Build_and_run_applications_in_a_Dockerless_Kubernetes_world-DevConf-India-18.pdf[Slides in pdf]
+
 === Video
-https://www.youtube.com/watch?v=W8TEjqYSkX0[Video on youtube]
+
 
 
